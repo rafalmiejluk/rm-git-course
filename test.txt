@@ -7,3 +7,7 @@ nie będzie gliczy
 zz
 
 PULL TEST
+
+
+
+nowy do ckeckoutu
